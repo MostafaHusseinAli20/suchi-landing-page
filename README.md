@@ -8,7 +8,9 @@ What Is Sushi? Sushi is a Japanese dish that features medium-grained rice cooked
 # Tech
 • HTML
 • CSS
+• Aos Library For Animation
 • Vite Tool
+
 
 # Preview 
 https://mostafahusseinali20.github.io/suchi-landing-page/
