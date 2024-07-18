@@ -60,15 +60,3 @@
     height: 45%;
     object-fit: contain;
 }
-
-.designed {
-    text-align: center;
-    background-color: var(--secondary-color);
-    font-family: var(--plus-jakarta-sans);
-    color: var(--color-white);
-    font-size: 16px;
-    padding: 1rem 0;
-}
-.designed span {
-    color: var(--primary-color);
-}
